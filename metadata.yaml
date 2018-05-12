@@ -1,0 +1,38 @@
+_repo: Letters-to-Severall-Persons-of-Honour_37387
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Donne, John
+    aliases:
+    - Donn, John
+    - Done, John
+    birthdate: 1572
+    deathdate: 1631
+    gutenberg_agent_id: '8886'
+    url: http://www.gutenberg.org/2009/agents/8886
+    wikipedia: http://en.wikipedia.org/wiki/John_donne
+  editor:
+    agent_name: Merrill, Charles Edmund
+    birthdate: 1877
+    deathdate: 1942
+    gutenberg_agent_id: '38815'
+    url: http://www.gutenberg.org/2009/agents/38815
+description: ''
+gutenberg_issued: '2011-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Donne, John, 1572-1631 -- Correspondence'
+- !lcsh 'Poets, English -- Early modern, 1500-1700 -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Church of England -- England -- Clergy -- Correspondence'
+title: Letters to Severall Persons of Honour
+url: http://www.gutenberg.org/ebooks/37387
